@@ -24,5 +24,32 @@
 
 ### Quesiton 2 NYT API
 
+ NYT developer docs : [NYT API Documentation](http://developer.nytimes.com/)
+ 
+  - Saved the Archive API as well as Search API file by different names
+  
+ #### Analysis 1
+ 
+ - Loading the archive files from local directory.
+ - Loaded 2016 archive file as well as 2017 archive file
+ - Loaded data to csv file and comparing the article number in year 2016 and 2017 as per the type of news.For example Classified,Business,Sports and so on.
+![barchar](https://github.com/vishal6557/diyora_vishal_spring17/blob/master/midterm/question1/analysis1.png)
+
+#### Analysis 2
+
+- With the help of NYT search api I have search word **`ENRON`**
+- Analysis done getting the trending news on Enron which was around 2000 end to 2001 number of articles on that particular period.
+- Bar Chart is presented for visualize effect
+![barchar](https://github.com/vishal6557/diyora_vishal_spring17/blob/master/midterm/question1/analysis1.png)
+
+#### Analysis 3
+
+- With the help of NYT search api I have search word **`Trump and Obama`**
+- Analysis which article was trending and was on the first page for both the presidents Trump and Obama.
+- Than comparing Section of articles of Obama and Trump with the help of pie chart.
+![barchar](https://github.com/vishal6557/diyora_vishal_spring17/blob/master/midterm/question1/analysis1.png)
+
+
+
 
 
