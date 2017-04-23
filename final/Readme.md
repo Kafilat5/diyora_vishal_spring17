@@ -42,8 +42,8 @@ Plot Files:<a href="Output/Analysis1/Analysis1_University_NonUniversity.png"> An
 ### Is their any Relationship between Mortgage Rates and Housing price?
 As per the [blog](http://www.bankrate.com/finance/mortgages/rising-rates-lower-house-prices.aspx) and articles. It's a common belief in real estate that house prices are correlated to interest rates. The idea, beloved by homebuyers, is that if mortgage rates rise, prices of homes for sale must fall because otherwise those homes will become less affordable.
 Data Used and Input Parameters:
-1.Zillow:-[City_Zhvi_AllHomes.csv](City_Zhvi_AllHomes.csv)
-2.From Federal Reserve Bank of ST. Louis ,the [30 - Year Fixed Rate Mortgage Average in the United States ](https://fred.stlouisfed.org/series/MORTGAGE30US)
+1. Zillow:-[City_Zhvi_AllHomes.csv](City_Zhvi_AllHomes.csv)
+2. From Federal Reserve Bank of ST. Louis ,the [30 - Year Fixed Rate Mortgage Average in the United States ](https://fred.stlouisfed.org/series/MORTGAGE30US)
 
 **Steps:**
 1. The CSV of States MedianLisitngprice of All Homes contains $ price from 2010-01 to 2017-02
