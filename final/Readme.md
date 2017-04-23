@@ -129,11 +129,11 @@ Data Used and Input Parameters:
 ## Outputs
 
 Plot Files:<a href="Output/Analysis5"> Analysis5 Files </a>
-
-<img src="Output/Analysis5/Analysis5_State.png">
 ### We can see from Map that the New York State has Average highest rental rate ,California and so on.
 
-<img src="Output/Analysis5/bokeh_plot(2).png">
+<img src="Output/Analysis5/Analysis5_State.png">
+
+<img src="Output/Analysis5/bokeh_plot (2).png">
 
 
 
