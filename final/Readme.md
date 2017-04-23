@@ -97,14 +97,14 @@ Data Input:-
 2. Convert Months to Quater Period to as the GDP is in Quaters and to do Comparisons between them.
 
 ## Outputs
-Plot Files:<a href="Output/Analysis4"> Analysis3 Files </a>
+Plot Files:<a href="Output/Analysis4"> Analysis 4 Files </a>
 
 ### Median Price Analysis of City
-<img src="Output/Analysis4/Analysis4_Analysis4_New_York.png">
-<img src="Output/Analysis4/Analysis4_Analysis4_California.png">
-<img src="Output/Analysis4/Analysis4_Analysis4_Alabama.png">
-<img src="Output/Analysis4/Analysis4_Analysis4_Massachusetts.png">
-<img src="Output/Analysis4/Analysis4_Analysis4_New_Jersey.png">
+<img src="Output/Analysis4/Analysis4_New_York.png">
+<img src="Output/Analysis4/Analysis4_California.png">
+<img src="Output/Analysis4/Analysis4_Alabama.png">
+[<img src="Output/Analysis4/Analysis4_Massachusetts.png">
+<img src="Output/Analysis4/_Analysis4_New_Jersey.png">]:<>
 
 ### Conclusions:-
 From the plot we can see that their is relationship between GDP and Median House Price.
