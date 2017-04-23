@@ -33,11 +33,11 @@ Data Used:
 5. Getting Price of House from Recession Start and Recession End and find the Percentage by(Recession Start- Recession End)/Recession End  whole multiple by 100 of University Town and Non University Town.
 
 ## Outputs :
-Plot Files:< a href="Output/Analysis1/Analysis1_University_NonUniversity.png"> 
+Plot Files:<a href="Output/Analysis1/Analysis1_University_NonUniversity.png"> Analysis 1 Files</a>
 ## Unviersity town vs Non University town
 <img src="Output/Analysis1/Analysis1_University_NonUniversity.png">
 
-#Analysis 2
+# Analysis 2
 
 ### Is their any Relationship between Mortgage Rates and Housing price?
 As per the [blog](http://www.bankrate.com/finance/mortgages/rising-rates-lower-house-prices.aspx) and articles. It's a common belief in real estate that house prices are correlated to interest rates. The idea, beloved by homebuyers, is that if mortgage rates rise, prices of homes for sale must fall because otherwise those homes will become less affordable.
@@ -53,9 +53,9 @@ Data Used and Input Parameters:
 5. Analyzing the relationship between Mortgage and Housing Price in different year and different states.
 
 ## Outputs
-Plot Files:< a href="Output/Analysis2"> 
+Plot Files:<a href="Output/Analysis2"> Analysis2 Files </a>
 
-## Mortgage 30 Year Fix Vs Housing Price
+### Mortgage 30 Year Fix Vs Housing Price
 <img src="Output/Analysis2/Analysis2_California.png">
 <img src="Output/Analysis2/Analysis2_Connecticut.png">
 <img src="Output/Analysis2/Analysis2_Maine.png">
