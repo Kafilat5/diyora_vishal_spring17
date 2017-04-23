@@ -132,6 +132,7 @@ Plot Files:<a href="Output/Analysis5"> Analysis5 Files </a>
 ### We can see from Map that the New York State has Average highest rental rate ,California and so on.
 
 <img src="Output/Analysis5/Analysis5_State.png">
+## Heat Map of the soldprice of January 2017 by county. 
 
 <img src="Output/Analysis5/bokeh_plot (2).png">
 
