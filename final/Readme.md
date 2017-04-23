@@ -62,3 +62,24 @@ Plot Files:<a href="Output/Analysis2"> Analysis2 Files </a>
 <img src="Output/Analysis2/Analysis2_Massachusetts.png">
 <img src="Output/Analysis2/Analysis2_New_York.png">
 
+### Conclusion:-
+From the plot and as per the blog It is prove that their is no such relationship between mortgage and median house price in any year any state.So It can be infered that mortgage and housing price increase or decrease are irrelavent
+
+# Analysis 3
+### Median Price Analysis of City Using Zillow dataset
+
+Data used:-
+1. Zillow Data [file]()
+**Steps:**
+1. Read the CSV file and find out the Total Change from 2017-02 to 2010-01
+2. Making new column of Perctange change ,Year percent change and Year change
+3. Plotting the Graph Mean total Change Grouped By State, City and Metro
+
+## Outputs
+Plot Files:<a href="Output/Analysis3"> Analysis3 Files </a>
+
+### Median Price Analysis of City
+<img src="Output/Analysis3/Analysis3__Mean_City.png">
+<img src="Output/Analysis3/Analysis3__Mean_Metro.png">
+<img src="Output/Analysis3/Analysis3__Mean_State.png">
+<img src="Output/Analysis3/Analysis3__Mean_Per_City.png">
