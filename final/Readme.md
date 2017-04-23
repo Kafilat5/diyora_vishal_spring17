@@ -40,7 +40,7 @@ Plot Files:<a href="Output/Analysis1/Analysis1_University_NonUniversity.png"> An
 # Analysis 2
 
 ### Is their any Relationship between Mortgage Rates and Housing price?
-As per the [blog](http://www.bankrate.com/finance/mortgages/rising-rates-lower-house-prices.aspx) and articles. It's a common belief in real estate that house prices are correlated to interest rates. The idea, beloved by homebuyers, is that if mortgage rates rise, prices of homes for sale must fall because otherwise those homes will become less affordable.
+As per the [blog](http://www.bankrate.com/finance/mortgages/rising-rates-lower-house-prices.aspx) and articles. It's a common belief in real estate that house prices are correlated to interest rates. The idea, beloved by homebuyers, is that if mortgage rates rise, prices of homes for sale must fall because otherwise those homes will become less affordable.<br>
 Data Used and Input Parameters:
 1. Zillow:-[City_Zhvi_AllHomes.csv](City_Zhvi_AllHomes.csv)
 2. From Federal Reserve Bank of ST. Louis ,the [30 - Year Fixed Rate Mortgage Average in the United States ](https://fred.stlouisfed.org/series/MORTGAGE30US)
@@ -83,3 +83,29 @@ Plot Files:<a href="Output/Analysis3"> Analysis3 Files </a>
 <img src="Output/Analysis3/Analysis3_Mean_Metro.png">
 <img src="Output/Analysis3/Analysis3_Mean_State.png">
 <img src="Output/Analysis3/Analysis3_Mean_Per_City.png">
+
+# Analysis 4
+## Is their is any relationship between Gross domestic product(GDP) vs Housing Price?
+Could housing have dramatic effects on the economy of a nation? This question was examined in this [study](http://www.aabri.com/manuscripts/10490.pdf). The
+literature review along with the results of this study’s correlation analysis provides convincing
+evidence that a strong relationship exists between the two variables.<br>
+Data Input:-
+1. Zillow Data Median Price CSV [file]()
+2. Gross Domestic Product(GDP) CSV [file]()
+** Steps:**
+1. Read the Zillow and GDP CSV file and analyze gdp vs price from 2008-2016.
+2. Convert Months to Quater Period to as the GDP is in Quaters and to do Comparisons between them.
+
+## Outputs
+Plot Files:<a href="Output/Analysis4"> Analysis3 Files </a>
+
+### Median Price Analysis of City
+<img src="Output/Analysis4/Analysis4_Analysis4_New_York.png">
+<img src="Output/Analysis4/Analysis4_Analysis4_California.png">
+<img src="Output/Analysis4/Analysis4_Analysis4_Alabama.png">
+<img src="Output/Analysis4/Analysis4_Analysis4_Massachusetts.png">
+<img src="Output/Analysis4/Analysis4_Analysis4_New_Jersey.png">
+
+### Conclusions:-
+From the plot we can see that their is relationship between GDP and Median House Price.
+
