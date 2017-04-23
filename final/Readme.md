@@ -1,5 +1,7 @@
 # INFO 7374 Data Analysis Using Python - Final Project
+
 ## Zillow Housing Data Analysis
+
 <img src="http://homevestors.com/wp-content/uploads/ForScreen_RGB_ZillowLogo_White-on-Blue.png">
 
 The data used are as follows:
@@ -34,6 +36,7 @@ Data Used:
 
 ## Outputs :
 Plot Files:<a href="Output/Analysis1/Analysis1_University_NonUniversity.png"> Analysis 1 Files</a>
+
 ## Unviersity town vs Non University town
 <img src="Output/Analysis1/Analysis1_University_NonUniversity.png">
 
@@ -66,6 +69,7 @@ Plot Files:<a href="Output/Analysis2"> Analysis2 Files </a>
 From the plot and as per the blog It is prove that their is no such relationship between mortgage and median house price in any year any state.So It can be infered that mortgage and housing price increase or decrease are irrelavent
 
 # Analysis 3
+
 ### Median Price Analysis of City Using Zillow dataset
 
 Data used:-
@@ -85,6 +89,7 @@ Plot Files:<a href="Output/Analysis3"> Analysis3 Files </a>
 <img src="Output/Analysis3/Analysis3_Mean_Per_City.png">
 
 # Analysis 4
+
 ## Is their is any relationship between Gross domestic product(GDP) vs Housing Price?
 Could housing have dramatic effects on the economy of a nation? This question was examined in this [study](http://www.aabri.com/manuscripts/10490.pdf). The
 literature review along with the results of this study’s correlation analysis provides convincing
@@ -103,9 +108,32 @@ Plot Files:<a href="Output/Analysis4"> Analysis 4 Files </a>
 <img src="Output/Analysis4/Analysis4_New_York.png">
 <img src="Output/Analysis4/Analysis4_California.png">
 <img src="Output/Analysis4/Analysis4_Alabama.png">
-[<img src="Output/Analysis4/Analysis4_Massachusetts.png">
-<img src="Output/Analysis4/_Analysis4_New_Jersey.png">]:<>
+<img src="Output/Analysis4/Analysis4_Massachusetts.png">
+
 
 ### Conclusions:-
 From the plot we can see that their is relationship between GDP and Median House Price.
+
+# Analysis 5
+
+### Median Rental Price of All Home By State(Map Plot) and County wise heat map of Median House Price of All Homes
+
+Data Used and Input Parameters:
+1. Zillow:-[City_Zhvi_AllHomes.csv](City_Zhvi_AllHomes.csv)
+
+**Steps:**
+
+1. Read the Zillow data from CSV of Median Rental Price and Plot it Using Plotly offline US Map
+2. Heat Map of the file County Median House Price
+
+## Outputs
+
+Plot Files:<a href="Output/Analysis5"> Analysis5 Files </a>
+
+<img src="Output/Analysis5/Analysis5_State.png">
+### We can see from Map that the New York State has Average highest rental rate ,California and so on.
+
+<img src="Output/Analysis5/bokeh_plot(2).png">
+
+
 
