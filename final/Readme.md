@@ -30,7 +30,7 @@ Data Used:
 
 **Steps:**
 
-1. <a href=" ">University file</a> file is reading and need to clean the file of University Town. Separate out State name, Town Name and University Name.
+1. <a href="Data/CSV/university_towns.txt">University file</a> file is reading and need to clean the file of University Town. Separate out State name, Town Name and University Name.
 2. For GDP find the Recession Start Quater and Recession End Quater
 3. Convert [City_Median Price](Data/CSV/City_Zhvi_AllHomes.csv) from number of year to Quaters of Housing Data.
 4. Replacing the Abrrievate of States code to State Name of Housing Data.
@@ -46,7 +46,7 @@ Plot Files:<a href="Output/Analysis1/Analysis1_University_NonUniversity.png"> An
 
 ## Conclusion
 
-Most of the Cases University town has less price decrease than Non-University Town and from the figure we can see than Media Price of house during recession of University town were better than Non-Unviersity as per the Zillow Data Set.
+In most of the States University town has less price decrease than Non-University Town and from the figure we can conclude than Media Price of house during recession of University town were better than Non-Unviersity as per the Zillow Data Set.
 
 # Analysis 2
 
@@ -56,7 +56,7 @@ As per the [blog](http://www.bankrate.com/finance/mortgages/rising-rates-lower-h
 
 Data Used and Input Parameters:
 
-1. Zillow:-[State Median Listing Price](final/Data/CSV/State_MedianListingPrice_AllHomes.csv)
+1. Zillow:-[State Median Listing Price](Data/CSV/State_MedianListingPrice_AllHomes.csv)
 2. Federal Reserve Bank[:- 30 - Year Fixed Rate Mortgage](Data/CSV/MORTGAGE30US_2000_2017.csv)
 
 **Steps:**
@@ -85,7 +85,7 @@ Plot Files:<a href="Output/Analysis2"> Analysis2 Files </a>
 
 ### Conclusion:-
 
-From the plot and as per the blog It is prove that their is no such relationship between mortgage and median house price in any year any state.So It can be infered that mortgage and housing price increase or decrease are irrelavent
+From the plot and as per the blog we can infered that their is no such relationship between mortgage and median house price in any year any state.So It can be infered that mortgage and housing price increase or decrease are irrelavent
 
 # Analysis 3
 
@@ -141,7 +141,7 @@ Plot Files:<a href="Output/Analysis4"> Analysis 4 Files </a>
 
 ### Conclusions:-
 
-From the plot we can see that their is relationship between GDP and Median House Price.
+From the plot we can see that their is relationship between GDP and Median House Price when the Price increases GDP is also increase and Price decreases GDP also decreases for all the above states.
 
 # Analysis 5
 
