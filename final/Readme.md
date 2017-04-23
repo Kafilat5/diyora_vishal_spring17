@@ -22,7 +22,7 @@ The data used are as follows:
 
 Data Used:
 
-1. Zillow:-[City_Zhvi_AllHomes.csv](City_Zhvi_AllHomes.csv)
+1. Zillow:-[City_Zhvi_AllHomes.csv](Data/CSV/City_Zhvi_AllHomes.csv)
 2. [University towns in the United States](https://en.wikipedia.org/wiki/List_of_college_towns#College_towns_in_the_United_States) [File]()
 3. GDP over time:-[gdplev.xls]()
 
