@@ -116,7 +116,7 @@ From the plot we can see that their is relationship between GDP and Median House
 
 # Analysis 5
 
-### Median Rental Price of All Home By State(Map Plot) and County wise heat map of Median House Price of All Homes
+### Median Rental Price of All Home By State(Map Plot) and County wise heat map of Median Sold House Price of All Homes
 
 Data Used and Input Parameters:
 1. Zillow:-[City_Zhvi_AllHomes.csv](City_Zhvi_AllHomes.csv)
@@ -129,10 +129,12 @@ Data Used and Input Parameters:
 ## Outputs
 
 Plot Files:<a href="Output/Analysis5"> Analysis5 Files </a>
+
 ### We can see from Map that the New York State has Average highest rental rate ,California and so on.
 
 <img src="Output/Analysis5/Analysis5_State.png">
-## Heat Map of the soldprice of January 2017 by county. 
+
+## Heat Map of the sold house price of January 2017 by county. 
 
 <img src="Output/Analysis5/bokeh_plot (2).png">
 
