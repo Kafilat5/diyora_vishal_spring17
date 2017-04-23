@@ -16,10 +16,18 @@ The data used are as follows:
 4. Federal Reserve Bank of ST. Louis (30-Yr Mortgage Rate) - CSV File
 ## Analysis 1
 
-##Does University towns have their mean housing prices less effected by recessions?
+## Does University towns have their mean housing prices less effected by recessions?
 
 Data Used:
 
 1. Zillow:-[City_Zhvi_AllHomes.csv](City_Zhvi_AllHomes.csv)
 2. [University towns in the United States](https://en.wikipedia.org/wiki/List_of_college_towns#College_towns_in_the_United_States) [File]()
 3. GDP over time:-[gdplev.xls]()
+
+**Steps:**
+
+1. <a href=" ">University file</a> file is reading and need to clean the file of University Town. Separate out State name, Town Name and University Name.
+2. For GDP find the Recession Start Quater and Recession End Quater
+3. Convert [file](filelink) from number of year to Quaters of Housing Data.
+4. Replacing the Abrrievate of States code to State Name of Housing Data.
+5. Getting Price of House from Recession Start and Recession End and find the Percentage by(Recession Start- Recession End)/Recession End  whole multiple by 100 of University Town and Non University Town.
