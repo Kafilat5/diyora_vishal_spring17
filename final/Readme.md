@@ -9,7 +9,7 @@ The data used are as follows:
 * From Federal Reserve Bank of ST. Louis ,the [30 - Year Fixed Rate Mortgage Average in the United States ](https://fred.stlouisfed.org/series/MORTGAGE30US) of the United States in Percentage. 
 *Data Formats*
 
-1.Zillow -CSV File
+1.Zillow -CSV File<br>
 2. College Towns -txt File
 3. Bureau of Economic Analysis, US Department of Commerce(GDP) - CSV File
 4. Federal Reserve Bank of ST. Louis (30-Yr Mortgage Rate) - CSV File
