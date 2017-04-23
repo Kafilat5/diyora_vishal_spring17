@@ -79,7 +79,7 @@ Data used:-
 Plot Files:<a href="Output/Analysis3"> Analysis3 Files </a>
 
 ### Median Price Analysis of City
-<img src="Output/Analysis3/Analysis3__Mean_City.png">
-<img src="Output/Analysis3/Analysis3__Mean_Metro.png">
-<img src="Output/Analysis3/Analysis3__Mean_State.png">
-<img src="Output/Analysis3/Analysis3__Mean_Per_City.png">
+<img src="Output/Analysis3/Analysis3_Mean_City.png">
+<img src="Output/Analysis3/Analysis3_Mean_Metro.png">
+<img src="Output/Analysis3/Analysis3_Mean_State.png">
+<img src="Output/Analysis3/Analysis3_Mean_Per_City.png">
