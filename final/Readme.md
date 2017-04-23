@@ -31,3 +31,34 @@ Data Used:
 3. Convert [file](filelink) from number of year to Quaters of Housing Data.
 4. Replacing the Abrrievate of States code to State Name of Housing Data.
 5. Getting Price of House from Recession Start and Recession End and find the Percentage by(Recession Start- Recession End)/Recession End  whole multiple by 100 of University Town and Non University Town.
+
+## Outputs :
+Plot Files:< a href="Output/Analysis1/Analysis1_University_NonUniversity.png"> 
+## Unviersity town vs Non University town
+<img src="Output/Analysis1/Analysis1_University_NonUniversity.png">
+
+#Analysis 2
+
+### Is their any Relationship between Mortgage Rates and Housing price?
+As per the [blog](http://www.bankrate.com/finance/mortgages/rising-rates-lower-house-prices.aspx) and articles. It's a common belief in real estate that house prices are correlated to interest rates. The idea, beloved by homebuyers, is that if mortgage rates rise, prices of homes for sale must fall because otherwise those homes will become less affordable.
+Data Used and Input Parameters:
+1.Zillow:-[City_Zhvi_AllHomes.csv](City_Zhvi_AllHomes.csv)
+2.From Federal Reserve Bank of ST. Louis ,the [30 - Year Fixed Rate Mortgage Average in the United States ](https://fred.stlouisfed.org/series/MORTGAGE30US)
+
+**Steps:**
+1. The CSV of States MedianLisitngprice of All Homes contains $ price from 2010-01 to 2017-02
+2. Cleaning data and make the Rows as the Month and Column as state name and Year
+3. Mortgage [file](link of mortgage) read as CSV file with 30 Year Fixed Interest.
+4. Cleaning and Manipulating Mortgage file.
+5. Analyzing the relationship between Mortgage and Housing Price in different year and different states.
+
+## Outputs
+Plot Files:< a href="Output/Analysis2"> 
+
+## Mortgage 30 Year Fix Vs Housing Price
+<img src="Output/Analysis2/Analysis2_California.png">
+<img src="Output/Analysis2/Analysis2_Connecticut.png">
+<img src="Output/Analysis2/Analysis2_Maine.png">
+<img src="Output/Analysis2/Analysis2_Massachusetts.png">
+<img src="Output/Analysis2/Analysis2_New_York.png">
+
