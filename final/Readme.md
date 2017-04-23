@@ -20,7 +20,7 @@ The data used are as follows:
 
 ## Analysis 1
 
-## Does University towns have their mean housing prices less effected by recessions?
+## Does University towns have their mean housing prices less effected by recessions than Non-University towns?
 
 Data Used:
 
