@@ -39,6 +39,7 @@ Data Used:
 ## Outputs :
 
 Ipython Notebook: <a href="Analysis1.ipynb">Analysis1</a>
+
 Plot Files:<a href="Output/Analysis1/Analysis1_University_NonUniversity.png"> Analysis 1 Files</a>
 
 ## Unviersity town vs Non University town
@@ -70,6 +71,7 @@ Data Used and Input Parameters:
 
 ## Outputs
 Ipython Notebook: <a href="Analysis2.ipynb">Analysis2</a>
+
 Plot Files:<a href="Output/Analysis2"> Analysis2 Files </a>
 
 ### Mortgage 30 Year Fix Vs Housing Price
@@ -104,6 +106,7 @@ Data used:-
 ## Outputs
 
 Ipython Notebook: <a href="Analysis3.ipynb">Analysis3</a>
+
 Plot Files:<a href="Output/Analysis3"> Analysis3 Files </a>
 
 ### Median Price Analysis of City
@@ -134,6 +137,7 @@ Data Input:-
 ## Outputs
 
 Ipython Notebook: <a href="Analysis4.ipynb">Analysis4</a>
+
 Plot Files:<a href="Output/Analysis4"> Analysis 4 Files </a>
 
 ### Median Price Analysis of City
@@ -164,6 +168,7 @@ Data Used and Input Parameters:
 ## Outputs
 
 Ipython Notebook: <a href="Analysis5.ipynb">Analysis5</a>
+
 Plot Files:<a href="Output/Analysis5"> Analysis5 Files </a>
 
 ### We can see from Map that the New York State has Average highest rental rate ,California and so on.
