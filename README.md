@@ -38,13 +38,13 @@ Data Used:
 
 ## Outputs :
 
-IPython Notebook: <a href="Analysis1.ipynb">Analysis1</a>
+IPython Notebook: <a href="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Analysis1.ipynb">Analysis1</a>
 
-Plot Files:<a href="Output/Analysis1/Analysis1_University_NonUniversity.png"> Analysis 1 Files</a>
+Plot Files:<a href="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Output/Analysis1/Analysis1_University_NonUniversity.png"> Analysis 1 Files</a>
 
 ## Unviersity town vs Non University town
 
-<img src="Output/Analysis1/Analysis1_University_NonUniversity.png">
+<img src="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Output/Analysis1/Analysis1_University_NonUniversity.png">
 
 ## Conclusion
 
@@ -58,33 +58,33 @@ As per the [blog](http://www.bankrate.com/finance/mortgages/rising-rates-lower-h
 
 Data Used and Input Parameters:
 
-1. Zillow:-[State Median Listing Price](Data/CSV/State_MedianListingPrice_AllHomes.csv)
-2. Federal Reserve Bank[:- 30 - Year Fixed Rate Mortgage](Data/CSV/MORTGAGE30US_2000_2017.csv)
+1. Zillow:-[State Median Listing Price](https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Data/CSV/State_MedianListingPrice_AllHomes.csv)
+2. Federal Reserve Bank[:- 30 - Year Fixed Rate Mortgage](https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Data/CSV/MORTGAGE30US_2000_2017.csv)
 
 **Steps:**
 
 1. The CSV of States MedianLisitngprice of All Homes contains $ price from 2010-01 to 2017-02
 2. Cleaning data and make the Rows as the Month and Column as state name and Year
-3. Mortgage [Average Rates](Data/CSV/MORTGAGE30US_2000_2017.csv) read as CSV file with 30 Year Fixed Interest.
+3. Mortgage [Average Rates](https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Data/CSV/MORTGAGE30US_2000_2017.csv) read as CSV file with 30 Year Fixed Interest.
 4. Cleaning and Manipulating Average Mortgage file.
 5. Analyzing the relationship between Mortgage and Housing Price in different year and different states.
 
 ## Outputs
-IPython Notebook: <a href="Analysis2.ipynb">Analysis2</a>
+IPython Notebook: <a href="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Analysis2.ipynb">Analysis2</a>
 
-Plot Files:<a href="Output/Analysis2"> Analysis2 Files </a>
+Plot Files:<a href="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Output/Analysis2"> Analysis2 Files </a>
 
 ### Mortgage 30 Year Fix Vs Housing Price
 
-<img src="Output/Analysis2/Analysis2_California.png">
+<img src="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Output/Analysis2/Analysis2_California.png">
 
-<img src="Output/Analysis2/Analysis2_Connecticut.png">
+<img src="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Output/Analysis2/Analysis2_Connecticut.png">
 
-<img src="Output/Analysis2/Analysis2_Maine.png">
+<img src="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Output/Analysis2/Analysis2_Maine.png">
 
-<img src="Output/Analysis2/Analysis2_Massachusetts.png">
+<img src="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Output/Analysis2/Analysis2_Massachusetts.png">
 
-<img src="Output/Analysis2/Analysis2_New_York.png">
+<img src="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Output/Analysis2/Analysis2_New_York.png">
 
 ### Conclusion:-
 
@@ -95,7 +95,7 @@ From the plot and as per the blog we can infered that their is no such relations
 ### Median Price Analysis of City Using Zillow dataset
 
 Data used:-
-1. Zillow Data [City Median ListingPrice](Data/CSV/City_MedianListingPrice_AllHomes.csv)
+1. Zillow Data [City Median ListingPrice](https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Data/CSV/City_MedianListingPrice_AllHomes.csv)
 
 **Steps:**
 
@@ -105,16 +105,16 @@ Data used:-
 
 ## Outputs
 
-IPython Notebook: <a href="Analysis3.ipynb">Analysis3</a>
+IPython Notebook: <a href="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Analysis3.ipynb">Analysis3</a>
 
-Plot Files:<a href="Output/Analysis3"> Analysis3 Files </a>
+Plot Files:<a href="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Output/Analysis3"> Analysis3 Files </a>
 
 ### Median Price Analysis of City
 
-<img src="Output/Analysis3/Analysis3_Mean_City.png">
-<img src="Output/Analysis3/Analysis3_Mean_Metro.png">
-<img src="Output/Analysis3/Analysis3_Mean_State.png">
-<img src="Output/Analysis3/Analysis3_Mean_Per_City.png">
+<img src="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Output/Analysis3/Analysis3_Mean_City.png">
+<img src="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Output/Analysis3/Analysis3_Mean_Metro.png">
+<img src="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Output/Analysis3/Analysis3_Mean_State.png">
+<img src="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Output/Analysis3/Analysis3_Mean_Per_City.png">
 
 # Analysis 4
 
@@ -126,8 +126,8 @@ evidence that a strong relationship exists between the two variables.<br>
 
 Data Input:-
 
-1. Zillow Data Median Price CSV [State](Data/CSV/State_Zhvi_AllHomes.csv)
-2. Gross Domestic Product(GDP) CSV [By State Quaterly](Data/CSV/GDP_State_Quaterly.csv)
+1. Zillow Data Median Price CSV [State](https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Data/CSV/State_Zhvi_AllHomes.csv)
+2. Gross Domestic Product(GDP) CSV [By State Quaterly](https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Data/CSV/GDP_State_Quaterly.csv)
 
 ** Steps:**
 
@@ -136,16 +136,16 @@ Data Input:-
 
 ## Outputs
 
-IPython Notebook: <a href="Analysis4.ipynb">Analysis4</a>
+IPython Notebook: <a href="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Analysis4.ipynb">Analysis4</a>
 
-Plot Files:<a href="Output/Analysis4"> Analysis 4 Files </a>
+Plot Files:<a href="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Output/Analysis4"> Analysis 4 Files </a>
 
 ### Median Price Analysis of City
 
-<img src="Output/Analysis4/Analysis4_New_York.png">
-<img src="Output/Analysis4/Analysis4_California.png">
-<img src="Output/Analysis4/Analysis4_Alabama.png">
-<img src="Output/Analysis4/Analysis4_Massachusetts.png">
+<img src="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Output/Analysis4/Analysis4_New_York.png">
+<img src="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Output/Analysis4/Analysis4_California.png">
+<img src="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Output/Analysis4/Analysis4_Alabama.png">
+<img src="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Output/Analysis4/Analysis4_Massachusetts.png">
 
 ### Conclusions:-
 
@@ -157,8 +157,8 @@ From the plot we can see that their is relationship between GDP and Median House
 
 Data Used and Input Parameters:
 
-1. Zillow:-[State Median Rental Price](Data/CSV/State_MedianRentalPrice_AllHomes.csv)
-2. Zillow:-[County Median ListingPrice](Data/CSV/County_MedianListingPrice_AllHomes.csv)
+1. Zillow:-[State Median Rental Price](https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Data/CSV/State_MedianRentalPrice_AllHomes.csv)
+2. Zillow:-[County Median ListingPrice](https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Data/CSV/County_MedianListingPrice_AllHomes.csv)
 
 **Steps:**
 
@@ -167,17 +167,17 @@ Data Used and Input Parameters:
 
 ## Outputs
 
-IPython Notebook: <a href="Analysis5.ipynb">Analysis5</a>
+IPython Notebook: <a href="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Analysis5.ipynb">Analysis5</a>
 
-Plot Files:<a href="Output/Analysis5"> Analysis5 Files </a>
+Plot Files:<a href="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Output/Analysis5"> Analysis5 Files </a>
 
 ### We can see from Map that the New York State has Average highest rental rate ,California and so on.
 
-<img src="Output/Analysis5/Analysis5_State.png">
+<img src="https://github.com/vishal6557/diyora_vishal_spring17/blob/master/final/Output/Analysis5/Analysis5_State.png">
 
 ## Heat Map of the sold house price of January 2017 by county. 
 
-<img src="Output/Analysis5/bokeh_plot (2).png">
+<img src="final/Output/Analysis5/bokeh_plot (2).png">
 
 
 
